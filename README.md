@@ -20,6 +20,20 @@ The system is designed to:
 The project is organized in phases, with the later phase integrating the full end-to-end pipeline through a script such as `phase4/scripts/run_drone_system.py`.
 
 ---
+## Team Collaboration
+
+SkyTrack AI was developed as a collaborative team project focused on drone-based vehicle detection, tracking, and traffic analytics.
+
+### Team Members
+
+* **Kushagra Chauhan**
+* **Utsav Majumdar**
+* **Siddhi Vinayak Dash**
+
+### Acknowledgement
+
+This repository is a personal portfolio copy of the original team project. Full credit goes to all team members for their contributions throughout the design, development, testing, and documentation phases of the project.
+
 
 ## Core Pipeline
 
