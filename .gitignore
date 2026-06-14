@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.pyc
+
+# environments
+drone/
+env/
+venv/
+*.conda
+
+# datasets
+Datasets/
+dataset/
+data/
+
+
+*.log
+.vscode/
+__pycache__/
+
+# pretrained models
+
+*.tar
+
+# logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Videos
+*.mp4
+*.avi
+
+# Outputs
+
+
+*.mp4
+*.avi
+phase4/outputs/run_master_tracked.avi
+Datasets/
+
+__pycache__/
+
+
+gitrepos/

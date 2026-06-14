@@ -1,0 +1,12 @@
+{
+  "unique_vehicles": 29,
+  "total_detections": 4448,
+  "vehicles_passed_line": 5,
+  "left_lane_vehicles": 27,
+  "right_lane_vehicles": 2,
+  "traffic_flow_vehicles_per_hour": 670.6,
+  "average_median_speed_kmh": 36.3,
+  "traffic_density": "High",
+  "traffic_congestion": "High",
+  "weather": "Dark/Rainy"
+}
