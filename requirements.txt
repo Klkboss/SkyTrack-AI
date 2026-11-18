@@ -1,0 +1,31 @@
+# SkyTrack AI - Python 3.10
+# Install: pip install -r requirements.txt
+
+# Detection
+ultralytics>=8.0
+
+# Deep learning (for GPU, install the CUDA build from https://pytorch.org first)
+torch>=2.0
+torchvision>=0.15
+
+# Road segmentation
+segmentation-models-pytorch>=0.3
+albumentations>=1.3
+
+# Vision & data
+opencv-python>=4.8
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+matplotlib>=3.7
+Pillow>=9.5
+pyyaml>=6.0
+
+# Tracking (ByteTrack dependencies)
+lap>=0.4
+filterpy>=1.4
+cython_bbox>=0.1.3
+
+# ByteTrack itself is installed separately (see README):
+#   git clone https://github.com/ifzhang/ByteTrack.git
+#   cd ByteTrack && pip install -r requirements.txt && python setup.py develop
